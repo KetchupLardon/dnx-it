@@ -10,11 +10,11 @@ Make sure you have PHP installed. You can check your system's documentation or v
 Open a terminal or command prompt and navigate to the root directory of this project. You can use the cd command to change directories.
 For example, if you downloaded the project to your Downloads folder, you might use:
 
-cd Downloads/project-name
+`cd Downloads/project-name`
 
 Start the development server: Run the following command in your terminal:
 
-php -S localhost:8000
+`php -S localhost:8000`
 
 This command starts a built-in PHP development server that serves the project files on your local machine. You can now access the project in your web browser by visiting:
 http://localhost:8000
